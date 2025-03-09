@@ -1,8 +1,8 @@
 import random
 
-min = 46
+min = 1
 max = 49
-quantity = 4
+quantity = 6
 
 
 def get_numbers_ticket(min, max, quantity):
